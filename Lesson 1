@@ -1,7 +1,10 @@
 What is ML Ops?
 
 Dataset
+split
 Algorithm
-model
+train the model
 test the model
+Retraining
 save the model as .pkl, .joblib , .onnx
+deploy--as api for using  /SA
